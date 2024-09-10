@@ -1,6 +1,6 @@
 const express = require('express');
 const path = require('path');
-const funkoData = require('./db/funkoInventory.json');
+const funkoData = require('./db/filteredPops.json');
 
 const PORT = 3001;
 
